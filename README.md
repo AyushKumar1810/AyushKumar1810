@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm AYUSH KUMAR</h1>
-<h3 align="center">I am a Full stack developer with Java scripts And as well as With Python .</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushKumar1810&label=Profile%20views&color=0e75b6&style=flat" alt="AyushKumar1810" /> </p>
+Welcome to my coding sanctuary! 🚀 I'm an enthusiastic full-stack developer with a passion for turning innovative ideas into sleek and functional applications. My journey encompasses a fusion of creativity and logic, backed by solid experience in various tech stacks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar1810&theme=" alt="AyushKumar1810" /></a> </p>
+### 🎓 Academic Journey
+- **Currently Pursuing:** B.TECH in Electronics and Communication Engineering at [NIT Andhra Pradesh]
+- **Expected Graduation:** May 2025
 
-- 🔭 I’m currently working on **Sports player Detections **
-- 🌱 I’m currently learning **DATA SCIENCE **
-- 💬 Ask me about **React , Python , Node js**
-- 📫 How to reach me **ayushsri1810@gmail.com**
-- ⚡ Fun fact **I use Tab Instead of Space **
+### 💻 Tech I Love
+- **MERN Stack Maestro:** Crafting immersive web experiences using MongoDB, Express.js, React, and Node.js.
+- **Python Pioneer:** Navigating the realms of backend development with Django and Flask.
+- **Data Science Explorer:** Unraveling the secrets of data and its stories, currently on the verge of mastering this realm.
+- **Web Scraping Artisan:** Transforming the chaos of the web into organized data, one scrape at a time.
+
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-179035247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AyushKumar1810" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
