@@ -1,5 +1,28 @@
 # 💫 About Me:
-# Hey, I'm Ayush Kumar.👋<br><br>Welcome to my coding sanctuary! 🚀 I'm an enthusiastic full-stack developer with a passion for turning innovative ideas into sleek and functional applications. My journey encompasses a fusion of creativity and logic, backed by solid experience in various tech stacks.<br><br>## 🎓 Academic Journey<br><br>- **Currently Pursuing:** B.TECH in Electronics and Communication Engineering at [NIT Andhra Pradesh]<br>- **Expected Graduation:** May 2025<br><br>## 💻 Tech I Love<br><br>- **MERN Stack Maestro:** Crafting immersive web experiences using MongoDB, Express.js, React, and Node.js.<br>- **Python Pioneer:** Navigating the realms of backend development with Django and Flask.<br>- **Data Science Explorer:** Unraveling the secrets of data and its stories, currently on the verge of mastering this realm.<br>- **Web Scraping Artisan:** Transforming the chaos of the web into organized data, one scrape at a time.<br><br>## 🌐 Coding Profiles<br><br>- **LeetCode:** [Hackerayush](https://leetcode.com/Hackerayush/)<br>- **HackerRank:** [9212226_Ayush](https://www.hackerrank.com/profile/9212226_Ayush)<br>- **GeeksForGeeks:** [ayushsrh7dk](https://auth.geeksforgeeks.org/user/ayushsrh7dk)<br><br>## 🚀 What Drives Me<br><br>I'm not just a coder; I'm a creator. Beyond the realms of syntax and algorithms, I aim to build solutions that resonate with users, weaving seamless experiences that leave a lasting impact.<br><br>## 🚀 Let's Collaborate<br><br>If you're into brainstorming new ideas, diving deep into data, or pushing the boundaries of technology, I'd love to connect! Feel free to explore my repositories, drop me a message, or let's collaborate on something groundbreaking.<br><br>Happy coding! 🎉<br>
+## Hey, I'm Ayush Kumar.👋
+
+Welcome to my coding sanctuary! 🚀 I'm an enthusiastic full-stack developer with a passion for turning innovative ideas into sleek and functional applications. My journey encompasses a fusion of creativity and logic, backed by solid experience in various tech stacks.
+
+### 🎓 Academic Journey
+- **Currently Pursuing:** B.TECH in Electronics and Communication Engineering at [NIT Andhra Pradesh]
+- **Expected Graduation:** May 2025
+
+### 💻 Tech I Love
+- **MERN Stack Maestro:** Crafting immersive web experiences using MongoDB, Express.js, React, and Node.js.
+- **Python Pioneer:** Navigating the realms of backend development with Django and Flask.
+- **Data Science Explorer:** Unraveling the secrets of data and its stories, currently on the verge of mastering this realm.
+- **Web Scraping Artisan:** Transforming the chaos of the web into organized data, one scrape at a time.
+
+### 🌐 Coding Profiles
+- **LeetCode:** [Hackerayush](https://leetcode.com/Hackerayush/)
+- **HackerRank:** [9212226_Ayush](https://www.hackerrank.com/profile/9212226_Ayush)
+- **GeeksForGeeks:** [ayushsrh7dk](https://auth.geeksforgeeks.org/user/ayushsrh7dk)
+
+### 🚀 What Drives Me
+I'm not just a coder; I'm a creator. Beyond the realms of syntax and algorithms, I aim to build solutions that resonate with users, weaving seamless experiences that leave a lasting impact.
+
+### 🚀 Let's Collaborate
+If you're into brainstorming new ideas, diving deep into data, or pushing the boundaries of technology, I'd love to connect! Feel free to explore my repositories, drop me a message, or let's collaborate on something groundbreaking.
 
 
 ## 🌐 Socials:
